@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+University student, software developer
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I live in Gyeong-gi-do, South Korea
+I'm studying in GWNU
+My major is computer science especially software engineering
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[hanheegu7@gmail.com](mailto:hanheegu7@gmail.com)
