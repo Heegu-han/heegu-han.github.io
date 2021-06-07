@@ -8,9 +8,13 @@ University student, software developer
 
 ### More Information
 
-I live in Gyeong-gi-do, South Korea
-I'm studying in GWNU
-My major is computer science especially software engineering
+I live in Gyeong-gi-do, South Korea.
+
+I'm studying in GWNU.
+
+My major is computer science especially software engineering.
+
+I've studied English in Malta.
 
 ### Contact me
 
